@@ -14,9 +14,10 @@ I thought it would be fun to explore the data side of skin care and at the same 
 In this project, the goal is create a set of dashboards with Dash and streamline them into the skinlytics website. 
 
 #### 1. Ingredient Profile Dashboard
-  - Gather a cleaned list of ingredients classified by their role in the formula
+  - Collect ingredient lists per product
+  - Prepare a cleaned list of ingredients classified by their role in the formula
   - Create a score system based on the number of ingredients per role 
-  - Create a spider chart visualization that showcases the ingredient list strog role-based points per product
+  - Create a visualization that showcases the ingredient list scores per product
   - Create a dashboard that allows you to recreate this visualizations based on filters and selections
   
 #### 2. Product Comparison dashboard
