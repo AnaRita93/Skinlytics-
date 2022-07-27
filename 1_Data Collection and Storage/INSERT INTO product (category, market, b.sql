@@ -1,0 +1,49 @@
+INSERT INTO product (category',' market',' brand',' product_name',' importer',' quantity_per_unit',' price_per_unit',' price_per_ml)
+    VALUES(SPF','DE','ROSSMAN','Sun OZone AlgenExtract SPF 50','Local Drugstore','200','4.95','0.02);
+    VALUES(SPF','DE','ROSSMAN','Sun Ozone Med Gel SPF 20 ','Local Drugstore','200','4.99','0.02);
+    VALUES(SPF','DE','DM','Sun Dance Ultra sensitive Gel creme SPF 50','Local Drugstore','150','5.95','0.04);
+    VALUES(SPF','AU','Bondi Sands','Fragrance Free Body lotion SPF 50','Look Fantastic','150','6.95','0.05);
+    VALUES(SPF','DE','Nivea ','Sensitive protect SPF 30','Local Drugstore','200','10.00','0.05);
+    VALUES(SPF','DE','Nivea','Beruhigende Tagespflege 24H LSF 15','Local Drugstore','50','3.65','0.07);
+    VALUES(SPF','JP','Nivea Japan','Aqua Gel','Stylevana','140','11.00','0.08);
+    VALUES(SPF','JP','Rotho Mentolatum ','Skin Aqua Super Moisture Gel SPF 50','Stylevana','110','9.20','0.08);
+    VALUES(SPF','DE','ROSSMAN','Sun OZone Anti Aging SPF 50','Local Drugstore','50','4.49','0.09);
+    VALUES(SPF','JP','Kose','Suncut UV Perfect Gel Super water proof spf 50','Stylevana','100','9.70','0.10);
+    VALUES(SPF','DE','DM','Balea Niacinamide 10% moisturizer SPF 30','Local Drugstore','50','4.95','0.10);
+    VALUES(SPF','DE','ROSSMAN','Sun OZone Med fluid SPF 30','Local Drugstore','50','4.99','0.10);
+    VALUES(SPF','DE','ROSSMAN','ISANA HA Moisturizer SPF 30','Local Drugstore','50','5.00','0.10);
+    VALUES(SPF','KR','B Lab','Matcha SPF ','Stylevana','50','5.48','0.11);
+    VALUES(SPF','US','Neutrogena','Clear Face SPF 30','Amazon','90','10.00','0.11);
+    VALUES(SPF','FR','Garnier ','BB oily/combo skin tinted SPF 25 ','Local Drugstore','50','5.95','0.12);
+    VALUES(SPF','JP','Omi Verdio','Gel Moisturizer SPF 50','YesStyle','80','10.00','0.13);
+    VALUES(SPF','DE','DM ','Alverde Clear Beauty Getonte tagescreme ','Local Drugstore','30','3.95','0.13);
+    VALUES(SPF','JP','Kiss Me Mommy','Mild SPF Gel ','Little Wonderland','100','15.00','0.15);
+    VALUES(SPF','JP','kao','Biore UV Aqua Rich Light up essence ','Stylevana','70','10.90','0.16);
+    VALUES(SPF','US','Aveeno','Daily Calming SPF 19','Amazon','120','20.00','0.17);
+    VALUES(SPF','DE','Nivea ','Sensitive Face SPF 50','Local Drugstore','50','9.00','0.18);
+    VALUES(SPF','DE','Nivea ','Sensitive Shine Control Face SPF 50','Local Drugstore','50','9.00','0.18);
+    VALUES(SPF','DE','Nivea ','Anti Falten Q10 Poren LSF 15 ','Local Drugstore','50','9.95','0.20);
+    VALUES(SPF','DE','Jean Len','Sensitive Face SPF 50','Local Drugstore','50','10.00','0.20);
+    VALUES(SPF','FR','Garnier','Ambre Solaire Anti Aging SPF ','Local Drugstore','50','10.00','0.20);
+    VALUES(SPF','FR','Garnier ','Ambre Solaire SUper UV Fluid','Local Drugstore','50','10.00','0.20)
+    VALUES(SPF','FR','Garnier','Vitamin C Serum creme SPF 25','Local Drugstore','50','10.00','0.20)
+    VALUES(SPF','US','Neutrogena','Sheer Zinc SPF 50','Amazon','90','18.00','0.20)
+    VALUES(SPF','KR','Mary & May','Cica Soothing SPF 50','Stylevana','50','10.42','0.21)
+    VALUES(SPF','KR','COSRX','Aloe SPF 50','Amazon','50','11.00','0.22)
+    VALUES(SPF','KR','Beauty of Joseon','Rice Probiotics SPF 50 ','Stylevana','50','11.00','0.22)
+    VALUES(SPF','JP','Rotho Mentolatum ','Hada Labo White gel SPF 50','Stylevana','90','20.00','0.22)
+    VALUES(SPF','JP','Rotho Mentolatum ','Skin Aqua UV Super Moisture Essence Gold','Little wonderland','80','18.00','0.23)
+    VALUES(SPF','KR','Rovectin ','Rovectin SPF','Stylevana','50','12.00','0.24)
+    VALUES(SPF','JP','Canmake','Mermaid SPF 50','YesStyle','40','10.00','0.25)
+    VALUES(SPF','KR','Coxir','Ceramides UV block SPF 50','YesStyle','80','20.00','0.25)
+    VALUES(SPF','KR','Benton','Air fit SPF ','Stylevana','50','12.77','0.26)
+    VALUES(SPF','KR','ISNTREE','Water Gel SPF 50','Stylevana ','50','13.00','0.26)
+    VALUES(SPF','US','Cerave','Lotion SPF 25','Amazon','50','13.17','0.26)
+    VALUES(SPF','US','Australian Gold','Tinted SPF 50 Medium to Tan ','Amazon','90','24.00','0.27)
+    VALUES(SPF','DE','Sebamed ','Anti Rotung LSF 20','amazon','50','13.90','0.28)
+    VALUES(SPF','KR','DR G ','Mild Green SPF','Stylevana','50','14.65','0.29)
+    VALUES(SPF','KR','Misha','Aqua GEL spf50 PA ++++','Amazon','50','15.59','0.31)
+    VALUES(SPF','FR','La Roche Posay','Anthelios Invisible Fluid','docmorris','50','16.49','0.33)
+    VALUES(SPF','KR','Higgee','Vegan SPF 50','Stylevana','50','16.50','0.33)
+    VALUES(SPF','FR','La Roche Posay','Anthelios SPF 50','Lookfantastic','50','16.95','0.34)
+    VALUES(SPF','KR','Purito','Daily Go SPF ','Cosibella ','60','21.50','0.36)
