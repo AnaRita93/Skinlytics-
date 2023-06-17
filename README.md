@@ -5,6 +5,8 @@ This repository is dedicated to the all data projects related with Skinlytics ma
 Dash plotly web dashboard with interactive visualizations on Ingredient List Score profile, Similarity Matrix and Recommender system engine based on ingredient list
 This notebook collection is a small prototype for part I of the project and intends to outline most of the steps, commands and packages necessary for this part of the project in a smaller part of the data (SPF Product category, total 50 products).
 
+Live version of the dashboard can be accessed here: http://anaritasantos.pythonanywhere.com/
+
 ## Workflow Part 1 - Ingredient Profile Analysis & Product Recommendation
 
 #### 1.Dash DataTable:
