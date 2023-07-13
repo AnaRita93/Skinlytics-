@@ -1,47 +1,55 @@
-# Skinlytics-
-This repository is dedicated to the all data projects related with Skinlytics main project
+# Skinlytics Repository: Data Projects for Skincare Analysis
 
-## Project Description: 
-Dash plotly web dashboard with interactive visualizations on Ingredient List Score profile, Similarity Matrix and Recommender system engine based on ingredient list
-This notebook collection is a small prototype for part I of the project and intends to outline most of the steps, commands and packages necessary for this part of the project in a smaller part of the data (SPF Product category, total 50 products).
+
+## Project Description:
+
+Welcome to the Skinlytics repository dedicated to data projects related to the main Skinlytics project. This repository focuses on the development of a comprehensive skincare analysis system, encompassing various components and stages. The main objective is to create an advanced web-based dashboard using Dash Plotly that provides interactive visualizations and data-driven insights for skincare products.
 
 Live version of the dashboard can be accessed here: http://anaritasantos.pythonanywhere.com/
 
-## Workflow Part 1 - Ingredient Profile Analysis & Product Recommendation
+### Workflow Part 1 - Ingredient Profile Analysis & Product Recommendation
 
-#### 1.Dash DataTable:
-Create an interactive table of the targeted product list, with Brand, Product Name, Full ingredient list, price, quantity, price/ml. As the project moves forward more columns would be added here (ex: review sentiment, main product benefits based on the ingredient list, ect.);
-#### 2.Ingredient List Processing & Visualization:
-Access the data, clean the ingredient list, classify the ingredients by role/function  and generate a spider radar visualization of ingredient profile per one product;
+#### Dash DataTable: 
+Interactive table displaying the targeted product list, including brand, product name, full ingredient list, price, quantity, and price per ml. Additional columns, such as review sentiment and main product benefits based on the ingredient list, will be progressively added throughout the project.
 
-#### 3.Recommender:
-Calculate the similarity matrix based for products based on common active ingredients and generate a recommended list. This engine will become more sofisticated as the project progresses, including more revire generated variables and options to adjust the engine parameters ;
+#### Ingredient List Processing & Visualization
+Access and preprocess the data, ensuring cleanliness and consistency in the ingredient lists.
+Implement a classification system to categorize ingredients based on their role and function.
+Generate spider radar visualizations to represent the ingredient profiles of each product.
 
-#### 4.Dash App:
-Create a Product Analysis Dashboard on Dash using the previous elements (spider radar chart,recommender and dash table);
+#### Recommender:
+Develop a sophisticated recommender engine based on a similarity matrix, taking into account common active ingredients among products.
+Enhance the recommender engine with more review-generated variables and adjustable parameters to improve accuracy and personalization.
 
-## Workflow Part 2 - Product Review Analysis
-1. Collect and transform the data from different sources on reviews about the products listed
+#### Dash App Interface: 
+Create a comprehensive Product Analysis Dashboard using Dash, incorporating the spider radar chart, recommender, and Dash DataTable. 
+This interactive dashboard will serve as the central hub for skincare analysis, providing users with an intuitive and insightful interface.
 
-2. Create first iteration of the sentiment and topic modeling of these reviews 
-
-3. Create Data Exploration visualizations on the reviews and integrate them into the web dashboard 
-
+### Workflow Part 2 - Product Review Analysis
+- Collect and transform data from various sources, including customer reviews, expert opinions, and social media platforms.
+- Implement advanced sentiment analysis and topic modeling techniques to extract valuable insights from the reviews.
+- Integrate data exploration visualizations into the web dashboard to provide users with a holistic understanding of product reviews and feedback.
+- Throughout the project, a strong emphasis will be placed on scalability, performance, and usability to handle a significant volume of skincare products and user interactions. 
 
 ## Sources:
+
 Listing of sources I used to help me with domain knowledge, data cleaning and code for visualizations and the recommender system.
 
-#### Ingredient List Research & Classification
-https://incidecoder.com/
-https://cosmetics.specialchem.com/
-https://www.hautschutzengel.de/
+- Ingredient List Research & Classification: https://incidecoder.com/ https://cosmetics.specialchem.com/ https://www.hautschutzengel.de/
+- Product Recommender System: https://www.kaggle.com/code/eward96/skincare-recommendation-engine
+- Dash web application programming: Dash Tutorial videos on Youtube (CharmingData channel: https://www.youtube.com/@CharmingData) Dash bootstrap Cheatsheet: https://dashcheatsheet.pythonanywhere.com/
+- Other Resources:Dash Documentation, Medium Articles, Chat-GTP
 
-#### Product Recommender System
-https://www.kaggle.com/code/eward96/skincare-recommendation-engine
 
-#### Dash web application programming
-Dash Tutorial videos on Youtube (CharmingData channel: https://www.youtube.com/@CharmingData)
-Dash bootstrap Cheatsheet: https://dashcheatsheet.pythonanywhere.com/
 
-#### Other Resources:
-Dash Documentation, Medium Articles, Chat-GTP
+
+
+
+
+
+
+
+
+
+
+
